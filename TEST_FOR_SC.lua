@@ -1,0 +1,1 @@
+sys.concmd("game test_ai")
