@@ -1,1 +1,1 @@
-sys.concmd("game test_ai")
+game test_ai
